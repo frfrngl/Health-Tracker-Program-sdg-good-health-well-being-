@@ -10,52 +10,30 @@
   </a>
 </p>
 
-[![Deploy health](https://github.com/coronasafe/care/actions/workflows/deployment.yaml/badge.svg)](https://github.com/coronasafe/care/actions/workflows/deployment.yaml)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=coronasafe_care&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=coronasafe_care)
-[![DeepScan grade](https://deepscan.io/api/teams/10238/projects/12962/branches/208996/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=10238&pid=12962&bid=208996)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg)](https://github.com/pydanny/cookiecutter-django/)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Chat](https://img.shields.io/badge/-Join%20us%20on%20slack-7b1c7d?logo=slack)](https://slack.coronasafe.in/)
+
+You do get a sense of direction and can adapt your everyday activities by keeping track of your progress.
+But in addition to that, it also operates on a psychological level and significantly boosts your motivation and self-confidence.
 
 
 
-This is the backend for care. an open source platform for managing patients, health workers, and hospitals.
+## Objective
+
+Health tracker programs are designed to monitor and track an individual's health-related activities and data, such as physical activity, diet,and sleep patterns. 
+The significance of health tracker programs lies in their ability to provide a comprehensive overview of an individual's health status, 
+which can help them make informed decisions about their health and lifestyle.
 
 
 ## Features
 
-Care backend makes the following features possible:
+Health Tracker Program makes the following features possible:
 
-- Realtime Analytics of Beds, ICUs, Ventilators, Oxygen and other resources in hospitals
-- Facility Management with Inventory Monitoring
-- Integrated Tele-medicine & Triage
-- Patient Management and Consultation History
-- Realtime video feed and vitals monitoring of patients
-- Clinical Data Visualizations.
+- Gather information from the user about their daily routine 
+- User may input calorie and fiber intake and program should determine if the calorie-fiber ratio is proper
+- Track/remind water intake
+- User may retrieve assessment of the intake from the information inputted on the program
 
 ## Getting Started
 
-### Docs and Guides
-
-You can find the docs at https://care-be-docs.coronasafe.network
-
-
-### Staging Deployments
-
-Staging instances for testing are automatically deployed on every commit to the `master` branch. The staging instances are available at:
-
-- https://gdcapi.coronasafe.network
-- https://careapi.coronasafe.in
-
-### Self hosting
-
-#### Compose
-
-docker compose is the easiest way to get started with care.
-put the required environment variables in a `.env` file and run:
-
 ```bash
-make up
 ```
 
