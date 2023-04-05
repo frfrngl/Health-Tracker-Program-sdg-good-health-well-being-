@@ -37,9 +37,9 @@ Health Tracker Program makes the following features possible:
 
 ## Members
 
-Eduria, Nheil G.
-Mendoza, Faith Allyson R.
-Ramos, Mark Kevin I.
-Robiso, Krenz Gerome
+- Eduria, Nheil G.
+- Mendoza, Faith Allyson R.
+- Ramos, Mark Kevin I.
+- Robiso, Krenz Gerome
 
 
