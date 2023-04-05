@@ -5,8 +5,7 @@
   <a href="https://coronasafe.network">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./care/static/images/logos/light-logo.svg">
-      <img alt="health logo" src="./care/static/images/logos/black-logo.svg"  width="300">
-    </picture>
+    
   </a>
 </p>
 
@@ -36,8 +35,12 @@ Health Tracker Program makes the following features possible:
 - Track/remind water intake
 - User may retrieve assessment of the intake from the information inputted on the program
 
-## Getting Started
+## Members
 
+Eduria, Nheil G.
+Mendoza, Faith Allyson R.
+Ramos, Mark Kevin I.
+Robiso, Krenz Gerome
 ```bash
 ```
 
