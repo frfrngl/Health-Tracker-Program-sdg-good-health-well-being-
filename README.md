@@ -19,14 +19,14 @@ But in addition to that, it also operates on a psychological level and significa
 
 
 
-## Objective
+## 🎯 Objective
 
 Health tracker programs are designed to monitor and track an individual's health-related activities and data, such as physical activity, diet,and sleep patterns. 
 The significance of health tracker programs lies in their ability to provide a comprehensive overview of an individual's health status, 
 which can help them make informed decisions about their health and lifestyle.
 
 
-## Features
+## ✔️ Features
 
 Health Tracker Program makes the following features possible:
 
@@ -35,7 +35,7 @@ Health Tracker Program makes the following features possible:
 - Track/remind water intake
 - User may retrieve assessment of the intake from the information inputted on the program
 
-## Members
+## 👥 Members
 
 - Eduria, Nheil G.
 - Mendoza, Faith Allyson R.
