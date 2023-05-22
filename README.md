@@ -1,6 +1,6 @@
 <p align="center">
   <picture align="center">
-    <img alt="image" src="   " width="kaw na maglagay" height="kaw an maglagay">
+    <img alt="image" src="   https://github.com/frfrngl/Health-Tracker-Program-sdg-good-health-well-being-/blob/main/Black_and_White_Monochrome_Tech_Logo-removebg-preview.png" width="100" height="100">
  </picture>
 </p>
 
