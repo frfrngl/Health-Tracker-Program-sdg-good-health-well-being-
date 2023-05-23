@@ -1,1 +1,63 @@
+import datetime
 
+activity_log = []
+food_log = []
+
+def log_activity(activity, duration):
+    timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    log_entry = f"{timestamp} - {activity}: {duration} minutes"
+    activity_log.append(log_entry)
+    print("Activity logged successfully!")
+
+def log_food_intake(food, calories, fiber):
+    timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    log_entry = f"{timestamp} - {food}: Calories: {calories}, Fiber: {fiber}"
+    food_log.append(log_entry)
+    print("Food intake logged successfully!")
+
+def view_activity_log():
+    print("\--- Activity Log ---")
+    if activity_log:
+        for entry in activity_log:
+            print(entry)
+    else:
+        print("No activity entries found.")
+
+def view_food_log():
+    print("\--- Food Log ---")
+    if food_log:
+        for entry in food_log:
+            print(entry)
+    else:
+        print("No food entries found.")
+
+def main():
+    while True:
+        print("\--- Health Tracking Program ---")
+        print("1. Log Activity")
+        print("2. Log Food Intake")
+        print("3. View Activity Log")
+        print("4. View Food Log")
+        print("5. Exit")
+        choice = input("Enter your choice (1-5): ")
+
+        if choice == "1":
+            activity = input("Enter the activity: ")
+            duration = int(input("Enter the duration in minutes: "))
+            log_activity(activity, duration)
+        elif choice == "2":
+            food = input("Enter the food: ")
+            calories = int(input("Enter the calories: "))
+            fiber = float(input("Enter the fiber in grams: "))
+            log_food_intake(food, calories, fiber)
+        elif choice == "3":
+            view_activity_log()
+        elif choice == "4":
+            view_food_log()
+        elif choice == "5":
+            break
+        else:
+            print("Invalid choice. Please try again.")
+
+if _name_ == "_main_":
+    main()
