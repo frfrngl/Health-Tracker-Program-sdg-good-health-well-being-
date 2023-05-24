@@ -40,6 +40,12 @@ Health Tracker Program makes the following features possible:
 - User may input calorie and fiber intake and program should determine if the calorie-fiber ratio is proper
 - Track/remind water intake
 - User may retrieve assessment of the intake from the information inputted on the program
+  
+  <p align="center">
+  <picture align="center">
+    <img alt="image" src="https://github.com/frfrngl/Health-Tracker-Program-sdg-good-health-well-being-/blob/main/Flowchart.PNG" width="300" height="300">
+ </picture>
+</p>
 
 ## 👥 Members
 
