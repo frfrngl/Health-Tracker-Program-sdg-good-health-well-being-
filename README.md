@@ -43,7 +43,7 @@ Health Tracker Program makes the following features possible:
   
   <p align="center">
   <picture align="center">
-    <img alt="image" src="https://github.com/frfrngl/Health-Tracker-Program-sdg-good-health-well-being-/blob/main/Flowchart.PNG" width="300" height="300">
+    <img alt="image" src="https://github.com/frfrngl/Health-Tracker-Program-sdg-good-health-well-being-/blob/main/Flowchart.PNG" width="800" height="3500">
  </picture>
 </p>
 
