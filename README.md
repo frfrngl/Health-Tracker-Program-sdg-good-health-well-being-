@@ -41,6 +41,7 @@ Health Tracker Program makes the following features possible:
 - Track/remind water intake
 - User may retrieve assessment of the intake from the information inputted on the program
   
+  # <p align="center"> FLOWCHART. </p>
   <p align="center">
   <picture align="center">
     <img alt="image" src="https://github.com/frfrngl/Health-Tracker-Program-sdg-good-health-well-being-/blob/main/Flowchart.PNG" width="800" height="500">
